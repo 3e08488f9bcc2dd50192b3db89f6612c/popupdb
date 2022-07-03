@@ -1,0 +1,9 @@
+discord.py
+phonenumbers
+pytesseract
+ipwhois
+beautifulsoup4
+configparser
+langdetect
+PyQt5
+PyQtWebEngine
